@@ -39,11 +39,10 @@
 ---
 
 ## 🤝 **Let’s Connect!**  
-- 🌐 [LinkedIn](#)  
-- 📫 [Email](#)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/armansari)  
+- 📫 [Email](armanansari6461@gmail.com)  
 
 ---
 
 ![Data Analytics](https://img.shields.io/badge/Data_Analytics-Python-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-Data_Visualization-yellow?style=for-the-badge&logo=powerbi&logoColor=black)
-
