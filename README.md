@@ -17,11 +17,11 @@
 ## 📊 **Projects**  
 ### **Diwali Sales Analysis**  
 - Analyzing and visualizing festive sales trends using Python libraries  
-![Diwali Sales](https://media.giphy.com/media/XN9xoO5eqRYue7U7np/giphy.gif)  
+![Diwali Sales](https://media.giphy.com/media/3oEduBrX2EmR7dZvGg/giphy.gif)  
 
 ### **IPL Insights Dashboard**  
 - Uncovering key insights from IPL history data  
-![IPL Insights](https://media.giphy.com/media/l0HlV7T6fyscbfuys/giphy.gif)  
+![IPL Insights](https://media.giphy.com/media/3oEduBrX2EmR7dZvGg/giphy.gif)  
 
 ---
 
@@ -40,7 +40,7 @@
 
 ## 🤝 **Let’s Connect!**  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/armansari)  
-- 📫 [Email](armanansari6461@gmail.com)  
+- 📫 [Email](#)  
 
 ---
 
