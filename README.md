@@ -15,15 +15,13 @@
 ---
 
 ## 📊 **Projects**  
-### **Diwali Sales Analysis**  
+### **[Diwali Sales Analysis](https://github.com/armanlytics/Diwali-Sales-Insights)**  
 - Analyzing and visualizing festive sales trends using Python libraries  
-![Diwali Sales](https://media.giphy.com/media/3oEduBrX2EmR7dZvGg/giphy.gif)
-![Diwali Sales](https://img.shields.io/badge/Project-Diwali_Sales_Analysis-blue?style=for-the-badge)
-
+![Diwali Sales](https://img.shields.io/badge/Project-Diwali_Sales_Analysis-blue?style=for-the-badge)  
 
 ### **IPL Insights Dashboard**  
 - Uncovering key insights from IPL history data  
-![IPL Insights](https://media.giphy.com/media/3oEduBrX2EmR7dZvGg/giphy.gif)  
+![IPL Insights](https://img.shields.io/badge/Project-IPL_Insights_Dashboard-green?style=for-the-badge)  
 
 ---
 
