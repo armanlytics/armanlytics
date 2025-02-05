@@ -17,7 +17,9 @@
 ## 📊 **Projects**  
 ### **Diwali Sales Analysis**  
 - Analyzing and visualizing festive sales trends using Python libraries  
-![Diwali Sales](https://media.giphy.com/media/3oEduBrX2EmR7dZvGg/giphy.gif)  
+![Diwali Sales](https://media.giphy.com/media/3oEduBrX2EmR7dZvGg/giphy.gif)
+![Diwali Sales](https://img.shields.io/badge/Project-Diwali_Sales_Analysis-blue?style=for-the-badge)
+
 
 ### **IPL Insights Dashboard**  
 - Uncovering key insights from IPL history data  
